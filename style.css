@@ -1,0 +1,23 @@
+.row {
+    display: flex;
+    height: 50px;
+}
+
+.cell {
+    background-color: lightcyan;
+    width: 150px;
+    aspect-ratio: 1/1;
+    /* border: 2px solid mediumblue; */
+}
+
+.wall {
+    background-color: rebeccapurple;
+}
+
+.start {
+    background-color: limegreen;
+}
+
+.finish {
+    background-color: darkred;
+}
